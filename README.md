@@ -1,12 +1,12 @@
 # Helm Charts
 
-A Helm repository for my generic, one-size-fits-all Helm chart.
+A Helm repository for my generic Helm chart: one chart to rule them all.
 
 ## Charts
 
 | Chart | Description |
 |-------|-------------|
-| [generic](charts/generic) | Deploy any application or Kubernetes resource by defining full manifests in the values file |
+| [generic](charts/generic) | One chart to rule them all. Define any Kubernetes resource (Deployment, Service, CronJob, RBAC, ...) as a full manifest in values. |
 
 ## Adding the Helm repository
 
